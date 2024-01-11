@@ -1,21 +1,23 @@
-### Hello world!
-- 🔭 I’m currently working on 
-  - Front-end (ReactJS, MUI)
+### Hello world.
+- 🔭 I’m currently working on:
+  - Front-end (ReactJS, MUI, Bootstrap)
   - Back-end (Express, Laravel, FlightPHP, FastAPI)
   - API Development (REST, GraphQL, grpc)
+  - Database (MySQL, PostgreSQL, MongoDB)
+  - Mobile App (Ionic, React Native)
   - Serverless APIs
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   - Bot framework
   - LangChain
   - Automation
-- 👯 I’m looking to collaborate on
+- 👯 I’m looking to collaborate on:
   - Gamification
   - Dashboard
   - NLP
-- 🤔 I’m looking for help with
+- 🤔 I’m looking for help with:
   - NLP
   - Bot Development
-- 💬 Ask me about 
+- 💬 Ask me about:
   - NodeJS
   - ReactJS
   - Laravel
