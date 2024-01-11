@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**iamkarshe/iamkarshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello world!
+- 🔭 I’m currently working on 
+  - Front-end (ReactJS, MUI)
+  - Back-end (Express, Laravel, FlightPHP, FastAPI)
+  - API Development (REST, GraphQL, grpc)
+  - Serverless APIs
+- 🌱 I’m currently learning
+  - Bot framework
+  - LangChain
+  - Automation
+- 👯 I’m looking to collaborate on
+  - Gamification
+  - Dashboard
+  - NLP
+- 🤔 I’m looking for help with
+  - NLP
+  - Bot Development
+- 💬 Ask me about 
+  - NodeJS
+  - ReactJS
+  - Laravel
+  - MySQL
+  - PostgreSQL
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/karshe/
