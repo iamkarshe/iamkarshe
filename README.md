@@ -1,4 +1,4 @@
-<img src="cover.jpeg" style="width: 100%; border-radius: 16px; margin: 0px 0px 10px 0px;" />
+<img src="cover.jpg" style="width: 100%; border-radius: 16px; margin: 0px 0px 10px 0px;" />
 
 ### Hello world.
 - 🔭 I’m currently working on:
