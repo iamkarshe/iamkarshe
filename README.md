@@ -1,29 +1,180 @@
-<img src="cover.jpg" style="width: 100%; border-radius: 16px; margin: 0px 0px 10px 0px;" />
+<div align="center">
+  <img src="cover.jpg" alt="cover" width="100%" style="border-radius: 16px;" />
+</div>
 
-### Hello world.
-- 🔭 I’m currently working on:
-  - Front-end (ReactJS, MUI, Bootstrap)
-  - Back-end (Express, Laravel, FlightPHP, FastAPI)
-  - API Development (REST, GraphQL, grpc)
-  - Database (MySQL, PostgreSQL, MongoDB)
-  - Mobile App (Ionic, React Native)
-  - Serverless APIs
-- 🌱 I’m currently learning:
-  - Bot framework
-  - LangChain
-  - Automation
-- 👯 I’m looking to collaborate on:
-  - Gamification
-  - Dashboard
-  - NLP
-- 🤔 I’m looking for help with:
-  - NLP
-  - Bot Development
-- 💬 Ask me about:
-  - NodeJS
-  - ReactJS
-  - Laravel
-  - MySQL
-  - PostgreSQL
-- 📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/karshe/
+<h1 align="center">Hi, I'm Utkarsh</h1>
+<h3 align="center">Building systems that think, scale, and secure.</h3>
+
+<p align="center">
+  Full-stack engineer evolving into an AI, systems, and security-focused builder.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://iamkarshe.github.io/"><img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge" alt="Collaboration" />
+</p>
+
+---
+
+## About me
+
+I design and build production-grade products across **web, AI, backend systems, and cybersecurity**.
+
+Right now, I’m in a new phase of growth: moving beyond feature delivery into **architecture, intelligent systems, secure platform design, and high-value engineering work**.
+
+I enjoy building things that are:
+
+- useful in the real world
+- technically clean under the hood
+- scalable without unnecessary complexity
+- secure by design
+
+---
+
+## 2026 - Year of Insire & Focus!
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building
+
+- AI systems and RAG workflows
+- FastAPI and distributed backends
+- Cybersecurity platforms and detection systems
+- Product dashboards and data-heavy interfaces
+- Developer tools and internal automation
+
+</td>
+<td width="50%" valign="top">
+
+### Exploring deeply
+
+- Agent workflows and tool orchestration
+- LLM fine-tuning and domain adaptation
+- Vector search and knowledge systems
+- MQTT, X.509, and secure device communication
+- Cost-efficient cloud architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,python" />
+</p>
+
+### Data and infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,cloudflare" />
+</p>
+
+### Working with
+
+- REST APIs
+- GraphQL
+- gRPC
+- Serverless APIs
+- Event-driven systems
+- Automation pipelines
+
+---
+
+## What I can help build
+
+- Modern full-stack applications
+- Backend APIs and system integrations
+- AI-enabled product features
+- Internal dashboards and admin systems
+- Secure ingestion and data-processing pipelines
+- Performance-focused architecture improvements
+
+---
+
+## Open to collaborate on
+
+- AI-powered SaaS products
+- Dashboards and internal tools
+- Cybersecurity and monitoring systems
+- NLP and bot-development ideas
+- Product engineering where speed and quality both matter
+
+---
+
+## Work with us
+
+If you are building something ambitious and need a strong engineering partner, I’m open to:
+
+- product development collaborations
+- contract or consulting work
+- MVP to production system design
+- AI, backend, dashboard, or platform engineering
+
+I especially enjoy working with teams that value **clarity, speed, ownership, and long-term thinking**.
+
+<p>
+  <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://iamkarshe.github.io/"><img src="https://img.shields.io/badge/Portfolio-View%20Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+## Ask me about
+
+- FastAPI and backend architecture
+- React and TypeScript application structure
+- Laravel and PHP systems
+- PostgreSQL and MySQL design
+- AI integration in real products
+- API design and system scalability
+
+---
+
+## Current mindset
+
+```txt
+Build fast.
+Think deep.
+Secure everything.
+Scale what matters.
+```
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamkarshe&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarshe&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamkarshe&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
+- Website: [iamkarshe.github.io](https://iamkarshe.github.io/)
+
+---
+
+<p align="center">
+  Designed for a new phase of growth in 2026.
+</p>
