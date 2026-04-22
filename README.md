@@ -155,19 +155,6 @@ Scale what matters.
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamkarshe&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarshe&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamkarshe&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
