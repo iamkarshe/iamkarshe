@@ -68,19 +68,51 @@ I enjoy building things that are:
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vue,angular,nextjs,nuxtjs,jquery" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,python,java,spring,kotlin,rust,cpp" />
 </p>
 
-### Data and infra
+<p>
+  <img src="https://img.shields.io/badge/FlightPHP-4F5D95?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### Data, AI and analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### Cloud, infra and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,linux,cloudflare,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ### Working with
@@ -146,12 +178,10 @@ I especially enjoy working with teams that value **clarity, speed, ownership, an
 
 ## Current mindset
 
-```txt
 Build fast.
 Think deep.
 Secure everything.
 Scale what matters.
-```
 
 ---
 
