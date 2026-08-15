@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Interactive chip-to-cloud security systems map — embeddable widget." />
+    <meta name="theme-color" content="#05070d" />
+    <title>Systems Map · Widget</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.179.1/build/three.module.js"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="widget" role="group" aria-label="Chip to cloud security systems map">
+      <canvas id="systems-canvas" aria-label="3D chip-to-cloud security system"></canvas>
+
+      <div class="tag" aria-hidden="true">CHIP&nbsp;→&nbsp;CLOUD&nbsp;→&nbsp;SOC</div>
+
+      <div id="node-labels" class="node-labels" aria-hidden="true"></div>
+
+      <aside id="node-panel" class="node-panel" aria-live="polite">
+        <p id="panel-index">NODE_01</p>
+        <h2 id="panel-title">Embedded edge</h2>
+        <p id="panel-copy">Select a node to inspect the system.</p>
+      </aside>
+
+      <p class="hint" aria-hidden="true">DRAG · SCROLL · TAP A NODE</p>
+
+      <button id="terminal-toggle" type="button" aria-expanded="false" aria-controls="terminal-panel">
+        <span class="dot"></span> TERMINAL
+      </button>
+
+      <section id="terminal-panel" class="terminal-panel" hidden>
+        <div class="terminal-bar">
+          <span></span><span></span><span></span>
+          <p>utkarsh@systems:~</p>
+          <button id="terminal-close" type="button" aria-label="Close terminal">×</button>
+        </div>
+        <div id="terminal-output" class="terminal-output" role="log" aria-live="polite">
+          <p><span class="cyan">SYSTEM_READY</span> Type <span class="red">help</span> to begin.</p>
+        </div>
+        <form id="terminal-form" autocomplete="off">
+          <label for="terminal-input">~$</label>
+          <input id="terminal-input" name="command" type="text" spellcheck="false" aria-label="Terminal command" />
+        </form>
+      </section>
+    </div>
+
+    <noscript>This widget requires JavaScript.</noscript>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

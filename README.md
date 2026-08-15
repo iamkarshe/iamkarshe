@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cover-v2.jpg" alt="cover" width="100%" style="border-radius: 16px;" />
+  <img src="red-man-cover-skew.png" alt="cover" width="100%" style="border-radius: 16px;" />
 </div>
 
 <br />
@@ -106,34 +106,87 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 
 ### From vehicle signal to security decision
 
-```mermaid
-flowchart LR
-    EDGE["Chip / ECU<br/>Embedded C/C++"]
-    TRUST["Vehicle Trust<br/>SDV Security"]
-    LOG["Secure Telemetry<br/>Logging Pipeline"]
-    SIEM["SIEM / SOC<br/>Detection & Context"]
-    AI["AI Intelligence<br/>Triage & Enrichment"]
-    HUMAN["Analyst Decision<br/>Governed Response"]
+<img src="assets/system-flow.svg" alt="Signal travelling from chip and ECU through vehicle trust, telemetry, SIEM, and AI to a governed decision" width="100%" />
 
-    EDGE --> TRUST --> LOG --> SIEM --> AI --> HUMAN
-    HUMAN -. feedback .-> SIEM
+<sub>EXPAND A STAGE TO SEE WHAT I ACTUALLY DO THERE</sub>
 
-    classDef cyan fill:#071821,stroke:#00C8FF,color:#EAFBFF,stroke-width:2px
-    classDef red fill:#210A10,stroke:#FF2A4F,color:#FFF1F4,stroke-width:2px
-    class EDGE,LOG,AI cyan
-    class TRUST,SIEM,HUMAN red
-```
+<details>
+<summary><code>$ inspect --stage chip-ecu</code></summary>
 
-_Security is carried through the system—not added at the end._
+<br />
+
+Embedded C/C++ in constrained, safety-conscious environments. Timing, memory,
+and failure behaviour are design constraints — not tuning done afterwards.
+This is where the trust boundary physically begins.
+
+</details>
+
+<details>
+<summary><code>$ inspect --stage vehicle-trust</code></summary>
+
+<br />
+
+Security architecture for connected mobility and SDV interfaces: identity,
+authorization, least privilege, and vehicle-state rules. Diagnostic and
+service-oriented access is treated as an attack surface, so it gets threat
+modelled and governed rather than simply exposed.
+
+</details>
+
+<details>
+<summary><code>$ inspect --stage telemetry</code></summary>
+
+<br />
+
+Turning raw device and platform signals into detection-ready data: ingestion,
+normalization, lineage, and traceability. If the log cannot be trusted or
+attributed, nothing downstream of it can be either.
+
+</details>
+
+<details>
+<summary><code>$ inspect --stage siem</code></summary>
+
+<br />
+
+High-volume security pipelines shaped around how analysts actually work —
+auditability, context on the alert, and evidence that holds up during review.
+Built for real monitoring workloads, not dashboard screenshots.
+
+</details>
+
+<details>
+<summary><code>$ inspect --stage ai</code></summary>
+
+<br />
+
+AI applied where it removes load: triage, enrichment, correlation, and
+prioritization. The goal is fewer, better alerts reaching a human — never
+generated confidence that an analyst then has to disprove.
+
+</details>
+
+<details>
+<summary><code>$ inspect --stage decision</code></summary>
+
+<br />
+
+The output is a governed response a human owns, with the reasoning traceable
+back through the pipeline to the originating signal. Feedback returns to
+detection so the system sharpens instead of drifting.
+
+</details>
+
+<br />
 
 <p align="center">
   <a href="https://karshe.in/gh-interactive/">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Explore%20this%20system-Interactive%203D%20Map-00C8FF?style=for-the-badge&labelColor=05070D" alt="Explore the interactive systems map" />
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Open-Live%20Vehicle%20to%20SOC%20Pipeline-00C8FF?style=for-the-badge&labelColor=05070D" alt="Open the live vehicle to SOC pipeline" />
   </a>
 </p>
 
 <p align="center">
-  <sub>ORBIT THE ARCHITECTURE · INSPECT EACH NODE · QUERY THE BUILT-IN TERMINAL</sub>
+  <sub>THREE-TIER ARCHITECTURE · LIVE TELEMETRY · THREAT EVENTS DETECTED, TRIAGED, AND RESOLVED</sub>
 </p>
 
 <div align="center">
@@ -145,30 +198,31 @@ _Security is carried through the system—not added at the end._
 
 <sub>PREVIOUSLY BUILT AND LED; NOW SUSTAINED BY MY TEAM UNDER MY MENTORSHIP AND STRATEGIC GUIDANCE</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><code>$ ls --domain enterprise-operations</code></summary>
 
-### Enterprise operations
+<br />
 
 - Supply-chain demand forecasting and planning
 - SLA-driven control towers and operational visibility
 - Fleet and route optimization systems
 - Mobile workflows for warehouse automation
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### Digital products
+<details>
+<summary><code>$ ls --domain digital-products</code></summary>
+
+<br />
 
 - E-commerce and transaction platforms
 - EdTech and online test series (OTS)
 - Rank prediction and performance analytics
 - Automation-led internal business tools
 
-</td>
-</tr>
-</table>
+</details>
+
+<br />
 
 These systems remain active under team ownership. I contribute through **mentoring, architecture reviews, product direction, and focused updates** rather than day-to-day delivery.
 
