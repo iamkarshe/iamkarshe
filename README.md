@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## About&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PGNpcmNsZSBjeD0iMTIiIGN5PSI3LjUiIHI9IjQiLz48cGF0aCBkPSJNMy41IDIxYzAtNC43IDMuOC04LjUgOC41LTguNXM4LjUgMy44IDguNSA4LjV6Ii8+PC9zdmc+" height="28" alt="" />&nbsp; About
 
 <sub>A DECADE OF TURNING COMPLEX TECHNOLOGY INTO DEPENDABLE SYSTEMS</sub>
 
@@ -59,7 +59,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## Current focus&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDFhMTEgMTEgMCAxMDAgMjIgMTEgMTEgMCAwMDAtMjJ6bTAgNGE3IDcgMCAxMTAgMTQgNyA3IDAgMDEwLTE0em0wIDRhMyAzIDAgMTAwIDYgMyAzIDAgMDAwLTZ6Ii8+PC9zdmc+" height="28" alt="" />&nbsp; Current focus
 
 <sub>SECURING MODERN MOBILITY FROM EMBEDDED SOFTWARE TO INTELLIGENT OPERATIONS</sub>
 
@@ -67,7 +67,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDEgMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0wIDQuMiAyIDQuMiA0LjYuNi0zLjQgMy4yLjkgNC42LTQuMS0yLjMtNC4xIDIuMy45LTQuNkw1LjQgMTBsNC42LS42IDItNC4yeiIvPjwvc3ZnPg==" alt="" />
+### <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=flat-square" alt="" />
 
 - Vehicle security architecture across chip, ECU, and cloud
 - Connected mobility, SDV interfaces, and trust boundaries
@@ -76,7 +76,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMiIvPjxyZWN0IHg9IjkuNCIgeT0iMC41IiB3aWR0aD0iMS43IiBoZWlnaHQ9IjQuMiIvPjxyZWN0IHg9IjEyLjkiIHk9IjAuNSIgd2lkdGg9IjEuNyIgaGVpZ2h0PSI0LjIiLz48cmVjdCB4PSI5LjQiIHk9IjE5LjMiIHdpZHRoPSIxLjciIGhlaWdodD0iNC4yIi8+PHJlY3QgeD0iMTIuOSIgeT0iMTkuMyIgd2lkdGg9IjEuNyIgaGVpZ2h0PSI0LjIiLz48cmVjdCB4PSIwLjUiIHk9IjkuNCIgd2lkdGg9IjQuMiIgaGVpZ2h0PSIxLjciLz48cmVjdCB4PSIwLjUiIHk9IjEyLjkiIHdpZHRoPSI0LjIiIGhlaWdodD0iMS43Ii8+PHJlY3QgeD0iMTkuMyIgeT0iOS40IiB3aWR0aD0iNC4yIiBoZWlnaHQ9IjEuNyIvPjxyZWN0IHg9IjE5LjMiIHk9IjEyLjkiIHdpZHRoPSI0LjIiIGhlaWdodD0iMS43Ii8+PC9zdmc+" alt="" />
+### <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=flat-square" alt="" />
 
 - Systems software for constrained, safety-conscious environments
 - Reliable firmware-adjacent and platform-level engineering
@@ -87,7 +87,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/SIEM-Security%20Logging-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjguNSIgcnk9IjMuMiIvPjxwYXRoIGQ9Ik0zLjUgOC40djMuNGMwIDEuNzcgMy44MSAzLjIgOC41IDMuMnM4LjUtMS40MyA4LjUtMy4yVjguNGMwIDEuNzctMy44MSAzLjItOC41IDMuMlMzLjUgMTAuMTcgMy41IDguNHoiLz48cGF0aCBkPSJNMy41IDE1LjJ2My40YzAgMS43NyAzLjgxIDMuMiA4LjUgMy4yczguNS0xLjQzIDguNS0zLjJ2LTMuNGMwIDEuNzctMy44MSAzLjItOC41IDMuMnMtOC41LTEuNDMtOC41LTMuMnoiLz48L3N2Zz4=" alt="" />
+### <img src="https://img.shields.io/badge/SIEM-Security%20Logging-FF2A4F?style=flat-square" alt="" />
 
 - High-volume ingestion, normalization, and detection-ready data
 - Auditability and operational visibility across vehicle and infra signals
@@ -96,7 +96,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/AI-for%20SIEM-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEwIDEuNWwyLjMgNi4yIDYuMiAyLjMtNi4yIDIuM0wxMCAxOC41bC0yLjMtNi4yTDEuNSAxMGw2LjItMi4zTDEwIDEuNXoiLz48cGF0aCBkPSJNMTguNSAxNGwxLjEgMi45IDIuOSAxLjEtMi45IDEuMS0xLjEgMi45LTEuMS0yLjktMi45LTEuMSAyLjktMS4xTDE4LjUgMTR6Ii8+PC9zdmc+" alt="" />
+### <img src="https://img.shields.io/badge/AI-for%20SIEM-00C8FF?style=flat-square" alt="" />
 
 - Workflows that triage, enrich, and prioritize security alerts
 - AI where it reduces noise and accelerates decisions — not spectacle
@@ -199,7 +199,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## Systems I have helped shape&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDIgMSA4bDExIDYgMTEtNnoiLz48cGF0aCBkPSJNMSAxMmwyLjUtMS40TDEyIDE1bDguNS00LjRMMjMgMTJsLTExIDZ6Ii8+PHBhdGggZD0iTTEgMTZsMi41LTEuNEwxMiAxOWw4LjUtNC40TDIzIDE2bC0xMSA2eiIvPjwvc3ZnPg==" height="28" alt="" />&nbsp; Systems I have helped shape
 
 <sub>PREVIOUSLY BUILT AND LED; NOW SUSTAINED BY MY TEAM UNDER MY MENTORSHIP AND STRATEGIC GUIDANCE</sub>
 
@@ -236,7 +236,7 @@ These systems remain active under team ownership. I contribute through **mentori
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## How I work&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDhhNCA0IDAgMTAwIDggNCA0IDAgMDAwLTh6bTkuMSA0YzAtLjUgMC0xLS4xLTEuNWwyLTEuNi0yLTMuNC0yLjQgMWE3IDcgMCAwMC0yLjYtMS41TDE1LjUgMmgtNGwtLjQgMi41QTcgNyAwIDAwOC41IDZMNiA1IDQgOC40bDIgMS42Yy0uMS41LS4xIDEtLjEgMS41czAgMSAuMSAxLjVsLTIgMS42IDIgMy40IDIuNS0xYy44LjYgMS42IDEuMSAyLjYgMS41bC40IDIuNWg0bC40LTIuNWE3IDcgMCAwMDIuNi0xLjVsMi40IDEgMi0zLjQtMi0xLjZjLjEtLjUuMS0xIC4xLTEuNXoiLz48L3N2Zz4=" height="28" alt="" />&nbsp; How I work
 
 <sub>TECHNICAL DEPTH, BUSINESS CONTEXT, AND ACCOUNTABLE EXECUTION</sub>
 
@@ -250,7 +250,7 @@ These systems remain active under team ownership. I contribute through **mentori
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## Working stack&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMgM2gxOGEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJIM2EyIDIgMCAwMS0yLTJWNWEyIDIgMCAwMTItMnptMy40IDRMNSA4LjQgOC42IDEyIDUgMTUuNiA2LjQgMTcgMTEuNSAxMnpNMTMgMTVoNXYyaC01eiIvPjwvc3ZnPg==" height="28" alt="" />&nbsp; Working stack
 
 <sub>A FOCUSED TOOLKIT, CHOSEN AROUND THE SYSTEM — NOT THE TREND</sub>
 
@@ -272,7 +272,7 @@ Background across product backends, data systems, and security tooling when the 
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## Open to&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMgMjFWNWEyIDIgMCAwMTItMmg3djJINXYxNGg3djJ6bTEwIDBWM2w4IDJ2MTRsLTggMnptNC05YTEgMSAwIDEwMCAyIDEgMSAwIDAwMC0yeiIvPjwvc3ZnPg==" height="28" alt="" />&nbsp; Open to
 
 <sub>SELECTIVE COLLABORATIONS WHERE SECURITY, SCALE, AND OWNERSHIP MATTER</sub>
 
@@ -294,7 +294,7 @@ I work best with teams that value **precision, accountability, and long-term sys
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## Connect&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
+## <img src="https://img.shields.io/badge/-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTkuNiAxNC40YTEgMSAwIDAwMS40IDEuNGw1LTVhMy41IDMuNSAwIDAwLTUtNWwtMi4yIDIuMiAxLjQgMS40TDEyLjQgN2ExLjUgMS41IDAgMDEyLjEgMi4xek0xNC40IDkuNmExIDEgMCAwMC0xLjQtMS40bC01IDVhMy41IDMuNSAwIDAwNSA1bDIuMi0yLjItMS40LTEuNEwxMS42IDE3YTEuNSAxLjUgMCAwMS0yLjEtMi4xeiIvPjwvc3ZnPg==" height="28" alt="" />&nbsp; Connect
 
 <sub>FOR THOUGHTFUL CONVERSATIONS ABOUT MOBILITY, SECURITY, AND APPLIED AI</sub>
 
