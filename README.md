@@ -67,7 +67,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=flat-square" alt="" />
+### <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDEgMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0wIDQuMiAyIDQuMiA0LjYuNi0zLjQgMy4yLjkgNC42LTQuMS0yLjMtNC4xIDIuMy45LTQuNkw1LjQgMTBsNC42LS42IDItNC4yeiIvPjwvc3ZnPg==" alt="" />
 
 - Vehicle security architecture across chip, ECU, and cloud
 - Connected mobility, SDV interfaces, and trust boundaries
@@ -76,7 +76,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=flat-square" alt="" />
+### <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMiIvPjxyZWN0IHg9IjkuNCIgeT0iMC41IiB3aWR0aD0iMS43IiBoZWlnaHQ9IjQuMiIvPjxyZWN0IHg9IjEyLjkiIHk9IjAuNSIgd2lkdGg9IjEuNyIgaGVpZ2h0PSI0LjIiLz48cmVjdCB4PSI5LjQiIHk9IjE5LjMiIHdpZHRoPSIxLjciIGhlaWdodD0iNC4yIi8+PHJlY3QgeD0iMTIuOSIgeT0iMTkuMyIgd2lkdGg9IjEuNyIgaGVpZ2h0PSI0LjIiLz48cmVjdCB4PSIwLjUiIHk9IjkuNCIgd2lkdGg9IjQuMiIgaGVpZ2h0PSIxLjciLz48cmVjdCB4PSIwLjUiIHk9IjEyLjkiIHdpZHRoPSI0LjIiIGhlaWdodD0iMS43Ii8+PHJlY3QgeD0iMTkuMyIgeT0iOS40IiB3aWR0aD0iNC4yIiBoZWlnaHQ9IjEuNyIvPjxyZWN0IHg9IjE5LjMiIHk9IjEyLjkiIHdpZHRoPSI0LjIiIGhlaWdodD0iMS43Ii8+PC9zdmc+" alt="" />
 
 - Systems software for constrained, safety-conscious environments
 - Reliable firmware-adjacent and platform-level engineering
@@ -87,7 +87,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/SIEM-Security%20Logging-FF2A4F?style=flat-square" alt="" />
+### <img src="https://img.shields.io/badge/SIEM-Security%20Logging-FF2A4F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjguNSIgcnk9IjMuMiIvPjxwYXRoIGQ9Ik0zLjUgOC40djMuNGMwIDEuNzcgMy44MSAzLjIgOC41IDMuMnM4LjUtMS40MyA4LjUtMy4yVjguNGMwIDEuNzctMy44MSAzLjItOC41IDMuMlMzLjUgMTAuMTcgMy41IDguNHoiLz48cGF0aCBkPSJNMy41IDE1LjJ2My40YzAgMS43NyAzLjgxIDMuMiA4LjUgMy4yczguNS0xLjQzIDguNS0zLjJ2LTMuNGMwIDEuNzctMy44MSAzLjItOC41IDMuMnMtOC41LTEuNDMtOC41LTMuMnoiLz48L3N2Zz4=" alt="" />
 
 - High-volume ingestion, normalization, and detection-ready data
 - Auditability and operational visibility across vehicle and infra signals
@@ -96,7 +96,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/AI-for%20SIEM-00C8FF?style=flat-square" alt="" />
+### <img src="https://img.shields.io/badge/AI-for%20SIEM-00C8FF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEwIDEuNWwyLjMgNi4yIDYuMiAyLjMtNi4yIDIuM0wxMCAxOC41bC0yLjMtNi4yTDEuNSAxMGw2LjItMi4zTDEwIDEuNXoiLz48cGF0aCBkPSJNMTguNSAxNGwxLjEgMi45IDIuOSAxLjEtMi45IDEuMS0xLjEgMi45LTEuMS0yLjktMi45LTEuMSAyLjktMS4xTDE4LjUgMTR6Ii8+PC9zdmc+" alt="" />
 
 - Workflows that triage, enrich, and prioritize security alerts
 - AI where it reduces noise and accelerates decisions — not spectacle
@@ -114,69 +114,81 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 > **Every stage below opens.** Expand one to see the actual engineering work at that layer — the constraints, the trust boundaries, and the decisions that matter.
 
 <details>
-<summary><code>$ inspect --stage chip-ecu</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-chip--ecu-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage chip-ecu" /></summary>
 
 <br />
 
-Embedded C/C++ in constrained, safety-conscious environments. Timing, memory,
-and failure behaviour are design constraints — not tuning done afterwards.
-This is where the trust boundary physically begins.
+> <img src="https://img.shields.io/badge/-TRUST%20BEGINS%20HERE-00C8FF?style=flat-square" alt="" />
+>
+> Embedded C/C++ in constrained, safety-conscious environments. Timing, memory,
+> and failure behaviour are design constraints — not tuning done afterwards.
+> This is where the trust boundary physically begins.
 
 </details>
 
 <details>
-<summary><code>$ inspect --stage vehicle-trust</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-vehicle--trust-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage vehicle-trust" /></summary>
 
 <br />
 
-Security architecture for connected mobility and SDV interfaces: identity,
-authorization, least privilege, and vehicle-state rules. Diagnostic and
-service-oriented access is treated as an attack surface, so it gets threat
-modelled and governed rather than simply exposed.
+> <img src="https://img.shields.io/badge/-ACCESS%20IS%20ATTACK%20SURFACE-FF2A4F?style=flat-square" alt="" />
+>
+> Security architecture for connected mobility and SDV interfaces: identity,
+> authorization, least privilege, and vehicle-state rules. Diagnostic and
+> service-oriented access is treated as an attack surface, so it gets threat
+> modelled and governed rather than simply exposed.
 
 </details>
 
 <details>
-<summary><code>$ inspect --stage telemetry</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-telemetry-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage telemetry" /></summary>
 
 <br />
 
-Turning raw device and platform signals into detection-ready data: ingestion,
-normalization, lineage, and traceability. If the log cannot be trusted or
-attributed, nothing downstream of it can be either.
+> <img src="https://img.shields.io/badge/-DATA%20INTEGRITY-00C8FF?style=flat-square" alt="" />
+>
+> Turning raw device and platform signals into detection-ready data: ingestion,
+> normalization, lineage, and traceability. If the log cannot be trusted or
+> attributed, nothing downstream of it can be either.
 
 </details>
 
 <details>
-<summary><code>$ inspect --stage siem</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-siem-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage siem" /></summary>
 
 <br />
 
-High-volume security pipelines shaped around how analysts actually work —
-auditability, context on the alert, and evidence that holds up during review.
-Built for real monitoring workloads, not dashboard screenshots.
+> <img src="https://img.shields.io/badge/-ANALYST%20FIRST-FF2A4F?style=flat-square" alt="" />
+>
+> High-volume security pipelines shaped around how analysts actually work —
+> auditability, context on the alert, and evidence that holds up during review.
+> Built for real monitoring workloads, not dashboard screenshots.
 
 </details>
 
 <details>
-<summary><code>$ inspect --stage ai</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-ai-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage ai" /></summary>
 
 <br />
 
-AI applied where it removes load: triage, enrichment, correlation, and
-prioritization. The goal is fewer, better alerts reaching a human — never
-generated confidence that an analyst then has to disprove.
+> <img src="https://img.shields.io/badge/-SIGNAL%20OVER%20NOISE-00C8FF?style=flat-square" alt="" />
+>
+> AI applied where it removes load: triage, enrichment, correlation, and
+> prioritization. The goal is fewer, better alerts reaching a human — never
+> generated confidence that an analyst then has to disprove.
 
 </details>
 
 <details>
-<summary><code>$ inspect --stage decision</code></summary>
+<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-decision-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage decision" /></summary>
 
 <br />
 
-The output is a governed response a human owns, with the reasoning traceable
-back through the pipeline to the originating signal. Feedback returns to
-detection so the system sharpens instead of drifting.
+> <img src="https://img.shields.io/badge/-HUMAN%20OWNED-FF2A4F?style=flat-square" alt="" />
+>
+> The output is a governed response a human owns, with the reasoning traceable
+> back through the pipeline to the originating signal. Feedback returns to
+> detection so the system sharpens instead of drifting.
 
 </details>
 
@@ -306,5 +318,5 @@ I work best with teams that value **precision, accountability, and long-term sys
 <br />
 
 <p align="center">
-  <code>&lt;krafted by karshe /&gt;</code>
+  <img src="assets/signature.svg" alt="&lt;krafted by karshe /&gt;" width="300" />
 </p>
