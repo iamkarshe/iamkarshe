@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="red-man-cover-skew.png" alt="cover" width="100%" style="border-radius: 16px;" />
+  <img src="assets/cover-glass.png" alt="cover" width="100%" />
 </div>
 
 <br />
@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  <img src="assets/handle.svg" alt="@iamkarshe" width="300" />
+  <img src="assets/handle.svg" alt="@iamkarshe" width="330" />
 </h1>
 
 <p align="center">
@@ -181,16 +181,6 @@ detection so the system sharpens instead of drifting.
 </details>
 
 <br />
-
-<p align="center">
-  <a href="https://karshe.in/gh-interactive/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Open-Live%20Vehicle%20to%20SOC%20Pipeline-00C8FF?style=for-the-badge&labelColor=05070D" alt="Open the live vehicle to SOC pipeline" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>THREE-TIER ARCHITECTURE · LIVE TELEMETRY · THREAT EVENTS DETECTED, TRIAGED, AND RESOLVED</sub>
-</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
