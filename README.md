@@ -1,197 +1,175 @@
 <div align="center">
-  <img src="cover.jpg" alt="cover" width="100%" style="border-radius: 16px;" />
+  <img src="cover-v2.jpg" alt="cover" width="100%" style="border-radius: 16px;" />
 </div>
 
-<h1 align="center">Hi, I'm Utkarsh</h1>
-<h3 align="center">Building systems that think, scale, and secure.</h3>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
+</div>
+
+<h1 align="center">Utkarsh Kumar Raut</h1>
 
 <p align="center">
-  Full-stack engineer evolving into an AI, systems, and security-focused builder.
+  <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=for-the-badge" alt="Automotive Cybersecurity" />
+  <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=for-the-badge&logo=c&logoColor=white" alt="Embedded" />
+  <img src="https://img.shields.io/badge/SIEM%20%26%20AI-Security%20Ops-FF2A4F?style=for-the-badge" alt="SIEM & AI" />
+</p>
+
+<p align="center">
+  Founder and software architect securing the vehicle ecosystem — from chip to cloud — with embedded engineering, security telemetry, and AI-assisted operations.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://iamkarshe.github.io/"><img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge" alt="Collaboration" />
+  <a href="https://karshe.in/"><img src="https://img.shields.io/badge/Website-karshe.in-111111?style=for-the-badge&logoColor=00C8FF" alt="Website" /></a>
+  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe"><img src="https://img.shields.io/badge/Email-Collaborate-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<br />
 
-## About me
+<div align="center">
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+</div>
 
-I design and build production-grade products across **web, AI, backend systems, and cybersecurity**.
+## <img src="https://img.shields.io/badge/01-About-00C8FF?style=flat-square" alt="01" /> About
 
-Right now, I’m in a new phase of growth: moving beyond feature delivery into **architecture, intelligent systems, secure platform design, and high-value engineering work**.
+I operate at the intersection of **technology, product, and execution** — taking systems from concept to production with measurable outcomes.
 
-I enjoy building things that are:
+Today my work centers on **automotive cybersecurity**, **software-defined vehicle (SDV) ecosystems**, and **connected mobility**: embedded platforms, secure architecture, compliance-minded engineering, and intelligent monitoring across the vehicle lifecycle.
 
-- useful in the real world
-- technically clean under the hood
-- scalable without unnecessary complexity
-- secure by design
+As a founder, I’ve also built and shipped analytics, automation, and learning platforms — always with the same bar: production-ready, ownable, and built to last.
 
----
+10+ years designing and delivering platforms across data, cloud, and security — leading teams with a bias for ownership and delivery.
 
-## 2026 - Year of Insire & Focus!
+<div align="center">
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+</div>
+
+## <img src="https://img.shields.io/badge/02-Focus-FF2A4F?style=flat-square" alt="02" /> Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Building
+### <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=flat-square" alt="" />
 
-- AI systems and RAG workflows
-- FastAPI and distributed backends
-- Cybersecurity platforms and detection systems
-- Product dashboards and data-heavy interfaces
-- Developer tools and internal automation
+- Vehicle security architecture across chip, ECU, and cloud
+- Connected mobility, SDV interfaces, and trust boundaries
+- Secure design, validation, and compliance-aware engineering
 
 </td>
 <td width="50%" valign="top">
 
-### Exploring deeply
+### <img src="https://img.shields.io/badge/Embedded-C%20%2F%20C%2B%2B-00C8FF?style=flat-square" alt="" />
 
-- Agent workflows and tool orchestration
-- LLM fine-tuning and domain adaptation
-- Vector search and knowledge systems
-- MQTT, X.509, and secure device communication
-- Cost-efficient cloud architecture
+- Systems software for constrained, safety-conscious environments
+- Reliable firmware-adjacent and platform-level engineering
+- Bridging embedded realities with enterprise security needs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/SIEM-Security%20Logging-FF2A4F?style=flat-square" alt="" />
+
+- High-volume ingestion, normalization, and detection-ready data
+- Auditability and operational visibility across vehicle and infra signals
+- Pipelines built for real SOC and monitoring workloads
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/AI-for%20SIEM-00C8FF?style=flat-square" alt="" />
+
+- Workflows that triage, enrich, and prioritize security alerts
+- AI where it reduces noise and accelerates decisions — not spectacle
+- Practical automation inside live security operations
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+</div>
 
-## Tech stack
+## <img src="https://img.shields.io/badge/03-How%20I%20work-00C8FF?style=flat-square" alt="03" /> How I work
 
-### Frontend
+- Strong ownership of architecture and delivery end to end
+- Secure-by-design across APIs, data flows, and integrations
+- Balance technical depth with business and compliance priorities
+- Lead distributed teams with clarity, accountability, and speed
+
+<div align="center">
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+</div>
+
+## <img src="https://img.shields.io/badge/04-Stack-FF2A4F?style=flat-square" alt="04" /> Stack I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vue,angular,nextjs,nuxtjs,jquery" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,postgres,redis,aws&theme=dark" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-00C8FF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-Logging%20%26%20Detection-00C8FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Security%20Workflows-FF2A4F?style=for-the-badge" />
 </p>
 
-### Backend
+Background across product backends, data systems, and security tooling when the problem needs it.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,python,java,spring,kotlin,rust,cpp" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/FlightPHP-4F5D95?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+## <img src="https://img.shields.io/badge/05-Open%20to-FF2A4F?style=flat-square" alt="05" /> Open to
 
-### Data, AI and analytics
+Selective conversations around:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka" />
-</p>
+- Automotive cybersecurity, SDV, and embedded engineering
+- SIEM pipelines, detection engineering, and SOC automation
+- AI-assisted security operations and alert intelligence
+- Founding / technical partnerships with clear ownership
 
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### Cloud, infra and tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,linux,cloudflare,postman" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-### Working with
-
-- REST APIs
-- GraphQL
-- gRPC
-- Serverless APIs
-- Event-driven systems
-- Automation pipelines
-
----
-
-## What I can help build
-
-- Modern full-stack applications
-- Backend APIs and system integrations
-- AI-enabled product features
-- Internal dashboards and admin systems
-- Secure ingestion and data-processing pipelines
-- Performance-focused architecture improvements
-
----
-
-## Open to collaborate on
-
-- AI-powered SaaS products
-- Dashboards and internal tools
-- Cybersecurity and monitoring systems
-- NLP and bot-development ideas
-- Product engineering where speed and quality both matter
-
----
-
-## Work with us
-
-If you are building something ambitious and need a strong engineering partner, I’m open to:
-
-- product development collaborations
-- contract or consulting work
-- MVP to production system design
-- AI, backend, dashboard, or platform engineering
-
-I especially enjoy working with teams that value **clarity, speed, ownership, and long-term thinking**.
+I work best with teams that value **precision, accountability, and long-term system integrity**.
 
 <p>
   <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iamkarshe.github.io/"><img src="https://img.shields.io/badge/Portfolio-View%20Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://karshe.in/"><img src="https://img.shields.io/badge/Website-Visit-00C8FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+</div>
 
-## Ask me about
-
-- FastAPI and backend architecture
-- React and TypeScript application structure
-- Laravel and PHP systems
-- PostgreSQL and MySQL design
-- AI integration in real products
-- API design and system scalability
-
----
-
-## Current mindset
-
-Build fast.
-Think deep.
-Secure everything.
-Scale what matters.
-
----
-
-## Connect
+## <img src="https://img.shields.io/badge/06-Connect-00C8FF?style=flat-square" alt="06" /> Connect
 
 - LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
-- Website: [iamkarshe.github.io](https://iamkarshe.github.io/)
+- Website: [karshe.in](https://karshe.in/)
+- Email: [utkarsh2point0@gmail.com](mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe)
 
----
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
+</div>
 
 <p align="center">
-  Designed for a new phase of growth in 2026.
+  <strong>Securing mobility</strong> — from chip to cloud, from signal to decision.
 </p>
