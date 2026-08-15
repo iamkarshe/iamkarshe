@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="assets/cover-glass.png" alt="cover" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="6" alt="" />
@@ -114,7 +108,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 > **Every stage below opens.** Expand one to see the actual engineering work at that layer — the constraints, the trust boundaries, and the decisions that matter.
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-chip--ecu-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage chip-ecu" /></summary>
+<summary><code>$ inspect --stage chip-ecu</code></summary>
 
 <br />
 
@@ -127,7 +121,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-vehicle--trust-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage vehicle-trust" /></summary>
+<summary><code>$ inspect --stage vehicle-trust</code></summary>
 
 <br />
 
@@ -141,7 +135,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-telemetry-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage telemetry" /></summary>
+<summary><code>$ inspect --stage telemetry</code></summary>
 
 <br />
 
@@ -154,7 +148,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-siem-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage siem" /></summary>
+<summary><code>$ inspect --stage siem</code></summary>
 
 <br />
 
@@ -167,7 +161,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-ai-00C8FF?style=flat-square&labelColor=0D1117" alt="$ inspect --stage ai" /></summary>
+<summary><code>$ inspect --stage ai</code></summary>
 
 <br />
 
@@ -180,7 +174,7 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/%24%20inspect%20----stage-decision-FF2A4F?style=flat-square&labelColor=0D1117" alt="$ inspect --stage decision" /></summary>
+<summary><code>$ inspect --stage decision</code></summary>
 
 <br />
 
