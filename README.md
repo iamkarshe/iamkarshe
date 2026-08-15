@@ -36,7 +36,13 @@
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/01-About-00C8FF?style=flat-square" alt="01" /> About
+<br />
+
+<img src="https://img.shields.io/badge/01-00C8FF?style=flat-square" height="18" alt="Section 01" />
+
+## About
+
+_A decade of turning complex technology into dependable systems._
 
 I operate at the intersection of **technology, product, and execution** — taking systems from concept to production with measurable outcomes.
 
@@ -51,7 +57,13 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/02-Focus-FF2A4F?style=flat-square" alt="02" /> Focus
+<br />
+
+<img src="https://img.shields.io/badge/02-FF2A4F?style=flat-square" height="18" alt="Section 02" />
+
+## Current focus
+
+_Securing modern mobility from embedded software to intelligent operations._
 
 <table>
 <tr>
@@ -101,7 +113,53 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/03-How%20I%20work-00C8FF?style=flat-square" alt="03" /> How I work
+<br />
+
+<img src="https://img.shields.io/badge/03-00C8FF?style=flat-square" height="18" alt="Section 03" />
+
+## Systems I have helped shape
+
+_Previously built and led; now sustained by my team with my mentorship and strategic guidance._
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise operations
+
+- Supply-chain demand forecasting and planning
+- SLA-driven control towers and operational visibility
+- Fleet and route optimization systems
+- Mobile workflows for warehouse automation
+
+</td>
+<td width="50%" valign="top">
+
+### Digital products
+
+- E-commerce and transaction platforms
+- EdTech and online test series (OTS)
+- Rank prediction and performance analytics
+- Automation-led internal business tools
+
+</td>
+</tr>
+</table>
+
+These systems remain active under team ownership. I contribute through **mentoring, architecture reviews, product direction, and focused updates** rather than day-to-day delivery.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+</div>
+
+<br />
+
+<img src="https://img.shields.io/badge/04-FF2A4F?style=flat-square" height="18" alt="Section 04" />
+
+## How I work
+
+_Technical depth, business context, and accountable execution._
 
 - Strong ownership of architecture and delivery end to end
 - Secure-by-design across APIs, data flows, and integrations
@@ -109,11 +167,17 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 - Lead distributed teams with clarity, accountability, and speed
 
 <div align="center">
-  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/04-Stack-FF2A4F?style=flat-square" alt="04" /> Stack I work with
+<br />
+
+<img src="https://img.shields.io/badge/05-00C8FF?style=flat-square" height="18" alt="Section 05" />
+
+## Working stack
+
+_A focused toolkit, chosen around the system—not the trend._
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,postgres,redis,aws&theme=dark" />
@@ -129,13 +193,17 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 Background across product backends, data systems, and security tooling when the problem needs it.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/05-Open%20to-FF2A4F?style=flat-square" alt="05" /> Open to
+<br />
 
-Selective conversations around:
+<img src="https://img.shields.io/badge/06-FF2A4F?style=flat-square" height="18" alt="Section 06" />
+
+## Open to
+
+_Selective collaborations where security, scale, and ownership matter._
 
 - Automotive cybersecurity, SDV, and embedded engineering
 - SIEM pipelines, detection engineering, and SOC automation
@@ -151,11 +219,17 @@ I work best with teams that value **precision, accountability, and long-term sys
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
+  <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-## <img src="https://img.shields.io/badge/06-Connect-00C8FF?style=flat-square" alt="06" /> Connect
+<br />
+
+<img src="https://img.shields.io/badge/07-00C8FF?style=flat-square" height="18" alt="Section 07" />
+
+## Connect
+
+_For thoughtful conversations about mobility, security, and applied AI._
 
 - LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
 - Website: [karshe.in](https://karshe.in/)
