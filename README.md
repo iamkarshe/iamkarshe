@@ -29,6 +29,10 @@
   <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe"><img src="https://img.shields.io/badge/Email-Collaborate-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <a href="https://karshe.in/gh-interactive/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live-Interactive%20Systems%20Map-00C8FF?style=flat-square&labelColor=05070D" alt="Interactive systems map" /></a>
+</p>
+
 <br />
 
 <div align="center">
@@ -36,13 +40,9 @@
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## About&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/01-00C8FF?style=flat-square" height="18" alt="Section 01" />
-
-## About
-
-_A decade of turning complex technology into dependable systems._
+<sub>A DECADE OF TURNING COMPLEX TECHNOLOGY INTO DEPENDABLE SYSTEMS</sub>
 
 I operate at the intersection of **technology, product, and execution** — taking systems from concept to production with measurable outcomes.
 
@@ -57,13 +57,9 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## Current focus&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/02-FF2A4F?style=flat-square" height="18" alt="Section 02" />
-
-## Current focus
-
-_Securing modern mobility from embedded software to intelligent operations._
+<sub>SECURING MODERN MOBILITY FROM EMBEDDED SOFTWARE TO INTELLIGENT OPERATIONS</sub>
 
 <table>
 <tr>
@@ -108,18 +104,46 @@ _Securing modern mobility from embedded software to intelligent operations._
 </tr>
 </table>
 
+### From vehicle signal to security decision
+
+```mermaid
+flowchart LR
+    EDGE["Chip / ECU<br/>Embedded C/C++"]
+    TRUST["Vehicle Trust<br/>SDV Security"]
+    LOG["Secure Telemetry<br/>Logging Pipeline"]
+    SIEM["SIEM / SOC<br/>Detection & Context"]
+    AI["AI Intelligence<br/>Triage & Enrichment"]
+    HUMAN["Analyst Decision<br/>Governed Response"]
+
+    EDGE --> TRUST --> LOG --> SIEM --> AI --> HUMAN
+    HUMAN -. feedback .-> SIEM
+
+    classDef cyan fill:#071821,stroke:#00C8FF,color:#EAFBFF,stroke-width:2px
+    classDef red fill:#210A10,stroke:#FF2A4F,color:#FFF1F4,stroke-width:2px
+    class EDGE,LOG,AI cyan
+    class TRUST,SIEM,HUMAN red
+```
+
+_Security is carried through the system—not added at the end._
+
+<p align="center">
+  <a href="https://karshe.in/gh-interactive/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Explore%20this%20system-Interactive%203D%20Map-00C8FF?style=for-the-badge&labelColor=05070D" alt="Explore the interactive systems map" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>ORBIT THE ARCHITECTURE · INSPECT EACH NODE · QUERY THE BUILT-IN TERMINAL</sub>
+</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## Systems I have helped shape&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/03-00C8FF?style=flat-square" height="18" alt="Section 03" />
-
-## Systems I have helped shape
-
-_Previously built and led; now sustained by my team with my mentorship and strategic guidance._
+<sub>PREVIOUSLY BUILT AND LED; NOW SUSTAINED BY MY TEAM UNDER MY MENTORSHIP AND STRATEGIC GUIDANCE</sub>
 
 <table>
 <tr>
@@ -153,13 +177,9 @@ These systems remain active under team ownership. I contribute through **mentori
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## How I work&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/04-FF2A4F?style=flat-square" height="18" alt="Section 04" />
-
-## How I work
-
-_Technical depth, business context, and accountable execution._
+<sub>TECHNICAL DEPTH, BUSINESS CONTEXT, AND ACCOUNTABLE EXECUTION</sub>
 
 - Strong ownership of architecture and delivery end to end
 - Secure-by-design across APIs, data flows, and integrations
@@ -171,13 +191,9 @@ _Technical depth, business context, and accountable execution._
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## Working stack&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/05-00C8FF?style=flat-square" height="18" alt="Section 05" />
-
-## Working stack
-
-_A focused toolkit, chosen around the system—not the trend._
+<sub>A FOCUSED TOOLKIT, CHOSEN AROUND THE SYSTEM — NOT THE TREND</sub>
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,postgres,redis,aws&theme=dark" />
@@ -197,13 +213,9 @@ Background across product backends, data systems, and security tooling when the 
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## Open to&nbsp;&nbsp;<img src="https://img.shields.io/badge/-FF2A4F?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/06-FF2A4F?style=flat-square" height="18" alt="Section 06" />
-
-## Open to
-
-_Selective collaborations where security, scale, and ownership matter._
+<sub>SELECTIVE COLLABORATIONS WHERE SECURITY, SCALE, AND OWNERSHIP MATTER</sub>
 
 - Automotive cybersecurity, SDV, and embedded engineering
 - SIEM pipelines, detection engineering, and SOC automation
@@ -223,13 +235,9 @@ I work best with teams that value **precision, accountability, and long-term sys
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="4" width="40%" alt="" />
 </div>
 
-<br />
+## Connect&nbsp;&nbsp;<img src="https://img.shields.io/badge/-00C8FF?style=flat-square" width="34" height="3" alt="" />
 
-<img src="https://img.shields.io/badge/07-00C8FF?style=flat-square" height="18" alt="Section 07" />
-
-## Connect
-
-_For thoughtful conversations about mobility, security, and applied AI._
+<sub>FOR THOUGHTFUL CONVERSATIONS ABOUT MOBILITY, SECURITY, AND APPLIED AI</sub>
 
 - LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
 - Website: [karshe.in](https://karshe.in/)
