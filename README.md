@@ -11,7 +11,13 @@
   <img src="https://img.shields.io/badge/—-FF2A4F?style=flat-square" height="6" alt="" />
 </div>
 
-<h1 align="center">Utkarsh Kumar Raut</h1>
+<h1 align="center">
+  <img src="assets/handle.svg" alt="@iamkarshe" width="300" />
+</h1>
+
+<p align="center">
+  <sub>UTKARSH KUMAR RAUT</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automotive-Cybersecurity-FF2A4F?style=for-the-badge" alt="Automotive Cybersecurity" />
@@ -24,13 +30,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://karshe.in/"><img src="https://img.shields.io/badge/Website-karshe.in-111111?style=for-the-badge&logoColor=00C8FF" alt="Website" /></a>
-  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe"><img src="https://img.shields.io/badge/Email-Collaborate-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="https://karshe.in/gh-interactive/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live-Interactive%20Systems%20Map-00C8FF?style=flat-square&labelColor=05070D" alt="Interactive systems map" /></a>
+  <a href="https://www.linkedin.com/in/karshe/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://karshe.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-karshe.in-111111?style=for-the-badge&logoColor=00C8FF" alt="Website" /></a>
+  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Collaborate-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br />
@@ -106,9 +108,10 @@ As a founder, I’ve also built and shipped analytics, automation, and learning 
 
 ### From vehicle signal to security decision
 
-<img src="assets/system-flow.svg" alt="Signal travelling from chip and ECU through vehicle trust, telemetry, SIEM, and AI to a governed decision" width="100%" />
+<img src="assets/system-flow.svg" alt="Live security pipeline: telemetry rises from in-vehicle sensors, ECUs and the zonal gateway through an mTLS transport gateway into ingestion, SIEM, AI triage and analyst decision, while a threat from the OBD port is detected, triaged and contained" width="100%" />
 
-<sub>EXPAND A STAGE TO SEE WHAT I ACTUALLY DO THERE</sub>
+> [!NOTE]
+> **Every stage below opens.** Expand one to see the actual engineering work at that layer — the constraints, the trust boundaries, and the decisions that matter.
 
 <details>
 <summary><code>$ inspect --stage chip-ecu</code></summary>
@@ -180,7 +183,7 @@ detection so the system sharpens instead of drifting.
 <br />
 
 <p align="center">
-  <a href="https://karshe.in/gh-interactive/">
+  <a href="https://karshe.in/gh-interactive/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%E2%96%B6%20Open-Live%20Vehicle%20to%20SOC%20Pipeline-00C8FF?style=for-the-badge&labelColor=05070D" alt="Open the live vehicle to SOC pipeline" />
   </a>
 </p>
@@ -235,10 +238,10 @@ These systems remain active under team ownership. I contribute through **mentori
 
 <sub>TECHNICAL DEPTH, BUSINESS CONTEXT, AND ACCOUNTABLE EXECUTION</sub>
 
-- Strong ownership of architecture and delivery end to end
-- Secure-by-design across APIs, data flows, and integrations
-- Balance technical depth with business and compliance priorities
-- Lead distributed teams with clarity, accountability, and speed
+- <img src="https://img.shields.io/badge/OWNERSHIP-00C8FF?style=flat-square" alt="" />&nbsp; Architecture and delivery owned end to end
+- <img src="https://img.shields.io/badge/SECURE%20BY%20DESIGN-FF2A4F?style=flat-square" alt="" />&nbsp; Applied across APIs, data flows, and integrations
+- <img src="https://img.shields.io/badge/JUDGEMENT-00C8FF?style=flat-square" alt="" />&nbsp; Technical depth balanced with business and compliance priorities
+- <img src="https://img.shields.io/badge/LEADERSHIP-FF2A4F?style=flat-square" alt="" />&nbsp; Distributed teams led with clarity, accountability, and speed
 
 <div align="center">
   <img src="https://img.shields.io/badge/—-00C8FF?style=flat-square" height="4" width="40%" alt="" />
@@ -271,17 +274,17 @@ Background across product backends, data systems, and security tooling when the 
 
 <sub>SELECTIVE COLLABORATIONS WHERE SECURITY, SCALE, AND OWNERSHIP MATTER</sub>
 
-- Automotive cybersecurity, SDV, and embedded engineering
-- SIEM pipelines, detection engineering, and SOC automation
-- AI-assisted security operations and alert intelligence
-- Founding / technical partnerships with clear ownership
+- <img src="https://img.shields.io/badge/AUTOMOTIVE-00C8FF?style=flat-square" alt="" />&nbsp; Cybersecurity, SDV, and embedded engineering
+- <img src="https://img.shields.io/badge/SIEM-FF2A4F?style=flat-square" alt="" />&nbsp; Pipelines, detection engineering, and SOC automation
+- <img src="https://img.shields.io/badge/AI-00C8FF?style=flat-square" alt="" />&nbsp; Security operations and alert intelligence
+- <img src="https://img.shields.io/badge/FOUNDING-FF2A4F?style=flat-square" alt="" />&nbsp; Technical partnerships with clear ownership
 
 I work best with teams that value **precision, accountability, and long-term system integrity**.
 
 <p>
-  <a href="https://www.linkedin.com/in/karshe/"><img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://karshe.in/"><img src="https://img.shields.io/badge/Website-Visit-00C8FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karshe/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-FF2A4F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://karshe.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-Visit-00C8FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -293,9 +296,9 @@ I work best with teams that value **precision, accountability, and long-term sys
 
 <sub>FOR THOUGHTFUL CONVERSATIONS ABOUT MOBILITY, SECURITY, AND APPLIED AI</sub>
 
-- LinkedIn: [linkedin.com/in/karshe](https://www.linkedin.com/in/karshe/)
-- Website: [karshe.in](https://karshe.in/)
-- Email: [utkarsh2point0@gmail.com](mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe)
+- LinkedIn: <a href="https://www.linkedin.com/in/karshe/" target="_blank" rel="noopener noreferrer">linkedin.com/in/karshe</a>
+- Website: <a href="https://karshe.in/" target="_blank" rel="noopener noreferrer">karshe.in</a>
+- Email: <a href="mailto:utkarsh2point0@gmail.com?subject=Collaboration%20Inquiry%20%E2%80%94%20iamkarshe" target="_blank" rel="noopener noreferrer">utkarsh2point0@gmail.com</a>
 
 <br />
 
@@ -308,4 +311,10 @@ I work best with teams that value **precision, accountability, and long-term sys
 
 <p align="center">
   <strong>Securing mobility</strong> — from chip to cloud, from signal to decision.
+</p>
+
+<br />
+
+<p align="center">
+  <code>&lt;krafted by karshe /&gt;</code>
 </p>

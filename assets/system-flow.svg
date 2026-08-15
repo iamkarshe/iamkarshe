@@ -1,104 +1,210 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Signal to decision flow: chip and ECU, vehicle trust, telemetry, SIEM, AI layer, governed decision">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 440" width="1100" height="440" role="img" aria-label="Live vehicle to SOC security pipeline: telemetry rises from in-vehicle components through a secure transport gateway into ingestion, SIEM, AI triage and analyst decision, with a threat event detected, triaged and contained">
   <defs>
-    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00C8FF" />
-      <stop offset="50%" stop-color="#7B8BC7" />
-      <stop offset="100%" stop-color="#FF2A4F" />
-    </linearGradient>
-
-    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
-      <feGaussianBlur stdDeviation="3.2" result="b" />
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.8" result="b" />
       <feMerge>
         <feMergeNode in="b" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
 
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#0D1826" stroke-width="1" />
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#0C1622" stroke-width="1" />
     </pattern>
+
+    <linearGradient id="uplink" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#00C8FF" />
+      <stop offset="100%" stop-color="#FF2A4F" />
+    </linearGradient>
   </defs>
 
-  <rect width="1000" height="250" fill="#05070D" />
-  <rect width="1000" height="250" fill="url(#grid)" opacity="0.6" />
+  <rect width="1100" height="440" fill="#05070D" />
+  <rect width="1100" height="440" fill="url(#grid)" opacity="0.7" />
 
-  <text x="30" y="28" fill="#4C5768" font-family="monospace" font-size="11" letter-spacing="3">SIGNAL</text>
-  <text x="970" y="28" fill="#4C5768" font-family="monospace" font-size="11" letter-spacing="3" text-anchor="end">DECISION</text>
+  <text x="40" y="34" fill="#E6EEF9" font-family="monospace" font-size="12" font-weight="600" letter-spacing="2.6">VEHICLE &#8594; SOC</text>
+  <text x="207" y="34" fill="#4C5768" font-family="monospace" font-size="10" letter-spacing="1.6">LIVE SECURITY PIPELINE</text>
 
-  <path d="M920 96 Q752 44 584 96" fill="none" stroke="#FF2A4F" stroke-width="1.2" stroke-dasharray="4 6" opacity="0.42">
-    <animate attributeName="stroke-dashoffset" values="60;0" dur="2.4s" repeatCount="indefinite" />
-  </path>
-  <text x="752" y="62" fill="#5A6678" font-family="monospace" font-size="9" letter-spacing="1.6" text-anchor="middle">FEEDBACK</text>
+  <!-- ============ tier bands ============ -->
+  <g>
+    <rect x="40" y="60" width="640" height="80" rx="3" fill="#1A0C14" opacity="0.55" stroke="#2A1420" />
+    <rect x="40" y="180" width="640" height="64" rx="3" fill="#0A1520" opacity="0.55" stroke="#152838" />
+    <rect x="40" y="286" width="640" height="98" rx="3" fill="#071821" opacity="0.55" stroke="#123040" />
 
-  <line x1="80" y1="120" x2="920" y2="120" stroke="url(#wire)" stroke-width="1.6" opacity="0.4" />
-
-  <g font-family="monospace" text-anchor="middle">
-    <circle cx="80" cy="120" r="17" fill="none" stroke="#00C8FF" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="0s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="0s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="80" cy="120" r="11" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
-    <text x="80" y="172" fill="#EAF6FF" font-size="11.5" letter-spacing="1.4">CHIP / ECU</text>
-    <text x="80" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">EMBEDDED C/C++</text>
-
-    <circle cx="248" cy="120" r="17" fill="none" stroke="#FF2A4F" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="0.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="0.5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="248" cy="120" r="11" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
-    <text x="248" y="172" fill="#FFF1F4" font-size="11.5" letter-spacing="1.4">VEHICLE TRUST</text>
-    <text x="248" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">SDV SECURITY</text>
-
-    <circle cx="416" cy="120" r="17" fill="none" stroke="#00C8FF" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="1s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="416" cy="120" r="11" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
-    <text x="416" y="172" fill="#EAF6FF" font-size="11.5" letter-spacing="1.4">TELEMETRY</text>
-    <text x="416" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">SECURE LOGGING</text>
-
-    <circle cx="584" cy="120" r="17" fill="none" stroke="#FF2A4F" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="1.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="1.5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="584" cy="120" r="11" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
-    <text x="584" y="172" fill="#FFF1F4" font-size="11.5" letter-spacing="1.4">SIEM / SOC</text>
-    <text x="584" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">DETECTION</text>
-
-    <circle cx="752" cy="120" r="17" fill="none" stroke="#00C8FF" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="752" cy="120" r="11" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
-    <text x="752" y="172" fill="#EAF6FF" font-size="11.5" letter-spacing="1.4">AI LAYER</text>
-    <text x="752" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">TRIAGE &amp; ENRICH</text>
-
-    <circle cx="920" cy="120" r="17" fill="none" stroke="#FF2A4F" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="r" values="17;27;17" dur="3.2s" begin="2.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.55;0;0.55" dur="3.2s" begin="2.5s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="920" cy="120" r="11" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
-    <text x="920" y="172" fill="#FFF1F4" font-size="11.5" letter-spacing="1.4">DECISION</text>
-    <text x="920" y="189" fill="#66748A" font-size="9.5" letter-spacing="0.8">GOVERNED RESPONSE</text>
+    <text x="668" y="78" fill="#5D6B7E" font-family="monospace" font-size="9" letter-spacing="2" text-anchor="end">CLOUD &amp; SOC</text>
+    <text x="668" y="198" fill="#5D6B7E" font-family="monospace" font-size="9" letter-spacing="2" text-anchor="end">TRANSPORT</text>
+    <text x="668" y="304" fill="#5D6B7E" font-family="monospace" font-size="9" letter-spacing="2" text-anchor="end">IN-VEHICLE</text>
   </g>
 
-  <circle cx="80" cy="120" r="4" fill="#00C8FF" opacity="0" filter="url(#glow)">
-    <animate attributeName="cx" values="80;920" dur="5.4s" begin="0s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#00C8FF;#FF2A4F" dur="5.4s" begin="0s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" dur="5.4s" begin="0s" repeatCount="indefinite" />
+  <!-- ============ static links ============ -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M95 330 H555" stroke="#2E4C66" stroke-width="1.4" opacity="0.75" />
+    <path d="M140 100 H545" stroke="#2E4C66" stroke-width="1.4" opacity="0.75" />
+    <path d="M555 330 L430 212" stroke="url(#uplink)" stroke-width="1.5" opacity="0.6" />
+    <path d="M430 212 L140 100" stroke="url(#uplink)" stroke-width="1.5" opacity="0.6" />
+
+    <path d="M580 212 L555 330" stroke="#FF2A4F" stroke-width="1.2" stroke-dasharray="3 5" opacity="0.45">
+      <animate attributeName="stroke-dashoffset" values="40;0" dur="2.2s" repeatCount="indefinite" />
+    </path>
+
+    <path d="M545 100 Q412 34 280 100" stroke="#FF2A4F" stroke-width="1.1" stroke-dasharray="4 6" opacity="0.42">
+      <animate attributeName="stroke-dashoffset" values="60;0" dur="2.6s" repeatCount="indefinite" />
+    </path>
+  </g>
+  <text x="412" y="52" fill="#5A6678" font-family="monospace" font-size="8" letter-spacing="1.6" text-anchor="middle">FEEDBACK TO DETECTION</text>
+
+  <!-- ============ nodes ============ -->
+  <g font-family="monospace" text-anchor="middle">
+
+    <!-- cloud tier -->
+    <circle cx="140" cy="100" r="13" fill="none" stroke="#00C8FF" stroke-width="1.3" opacity="0.5">
+      <animate attributeName="r" values="13;21;13" dur="3.4s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="3.4s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="140" cy="100" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="140" y="126" fill="#DCE8F5" font-size="9" letter-spacing="0.9">INGESTION</text>
+
+    <circle cx="280" cy="100" r="13" fill="none" stroke="#FF2A4F" stroke-width="1.3" opacity="0.5">
+      <animate attributeName="r" values="13;21;13" dur="3.4s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="3.4s" begin="0.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="280" cy="100" r="8" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
+    <circle cx="280" cy="100" r="8" fill="#FF2A4F" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.95;0;0.95;0;0" keyTimes="0;0.46;0.5;0.54;0.58;0.62;1" dur="14s" repeatCount="indefinite" />
+    </circle>
+    <text x="280" y="126" fill="#FFE8ED" font-size="9" letter-spacing="0.9">SIEM CORE</text>
+
+    <circle cx="410" cy="100" r="13" fill="none" stroke="#FFB020" stroke-width="1.3" opacity="0.5">
+      <animate attributeName="r" values="13;21;13" dur="3.4s" begin="1.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="3.4s" begin="1.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="410" cy="100" r="8" fill="#1F1608" stroke="#FFB020" stroke-width="2" filter="url(#glow)" />
+    <text x="410" y="126" fill="#FFF0D6" font-size="9" letter-spacing="0.9">AI TRIAGE</text>
+
+    <circle cx="545" cy="100" r="13" fill="none" stroke="#FF2A4F" stroke-width="1.3" opacity="0.5">
+      <animate attributeName="r" values="13;21;13" dur="3.4s" begin="1.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="3.4s" begin="1.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="545" cy="100" r="8" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
+    <text x="545" y="126" fill="#FFE8ED" font-size="9" letter-spacing="0.9">ANALYST / SOC</text>
+
+    <!-- transport tier -->
+    <circle cx="430" cy="212" r="12" fill="none" stroke="#00C8FF" stroke-width="1.3" opacity="0.5">
+      <animate attributeName="r" values="12;19;12" dur="3.4s" begin="0.9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="3.4s" begin="0.9s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="430" cy="212" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="430" y="238" fill="#DCE8F5" font-size="9" letter-spacing="0.9">SECURE GW / mTLS</text>
+
+    <circle cx="580" cy="212" r="8" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
+    <text x="580" y="238" fill="#FFC9D3" font-size="9" letter-spacing="0.9">OTA</text>
+
+    <!-- vehicle tier -->
+    <circle cx="95" cy="330" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="95" y="356" fill="#DCE8F5" font-size="9" letter-spacing="0.9">SENSORS</text>
+
+    <circle cx="205" cy="330" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="205" y="356" fill="#DCE8F5" font-size="9" letter-spacing="0.9">LEGACY ECU</text>
+
+    <circle cx="315" cy="330" r="13" fill="none" stroke="#FF2A4F" stroke-width="1.3" opacity="0">
+      <animate attributeName="r" values="10;26;10" dur="14s" keyTimes="0;0.2;0.28" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0;0.9;0;0" keyTimes="0;0.14;0.2;0.3;1" dur="14s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="315" cy="330" r="8" fill="#210A10" stroke="#FF2A4F" stroke-width="2" filter="url(#glow)" />
+    <text x="315" y="356" fill="#FFC9D3" font-size="9" letter-spacing="0.9">OBD / DIAG</text>
+
+    <circle cx="430" cy="330" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="430" y="356" fill="#DCE8F5" font-size="9" letter-spacing="0.9">ZONAL GW</text>
+
+    <circle cx="555" cy="330" r="8" fill="#071821" stroke="#00C8FF" stroke-width="2" filter="url(#glow)" />
+    <text x="555" y="356" fill="#DCE8F5" font-size="9" letter-spacing="0.9">HPC / DOMAIN</text>
+  </g>
+
+  <!-- ============ telemetry packets ============ -->
+  <circle r="3.6" fill="#00C8FF" filter="url(#glow)" opacity="0">
+    <animateMotion path="M95 330 H555 L430 212 L140 100 H545" dur="7s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.05;0.9;1" dur="7s" begin="0s" repeatCount="indefinite" />
   </circle>
 
-  <circle cx="80" cy="120" r="3.2" fill="#00C8FF" opacity="0" filter="url(#glow)">
-    <animate attributeName="cx" values="80;920" dur="5.4s" begin="1.8s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#00C8FF;#FF2A4F" dur="5.4s" begin="1.8s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" dur="5.4s" begin="1.8s" repeatCount="indefinite" />
+  <circle r="3" fill="#00C8FF" filter="url(#glow)" opacity="0">
+    <animateMotion path="M95 330 H555 L430 212 L140 100 H545" dur="7s" begin="2.4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.9;1" dur="7s" begin="2.4s" repeatCount="indefinite" />
   </circle>
 
-  <circle cx="80" cy="120" r="3.2" fill="#00C8FF" opacity="0" filter="url(#glow)">
-    <animate attributeName="cx" values="80;920" dur="5.4s" begin="3.6s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#00C8FF;#FF2A4F" dur="5.4s" begin="3.6s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.9;1" dur="5.4s" begin="3.6s" repeatCount="indefinite" />
+  <circle r="3" fill="#00C8FF" filter="url(#glow)" opacity="0">
+    <animateMotion path="M95 330 H555 L430 212 L140 100 H545" dur="7s" begin="4.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.9;1" dur="7s" begin="4.8s" repeatCount="indefinite" />
   </circle>
 
-  <text x="500" y="228" fill="#3F4859" font-family="monospace" font-size="9.5" letter-spacing="2.2" text-anchor="middle">SECURITY CARRIED THROUGH THE SYSTEM &#8212; NOT ADDED AT THE END</text>
+  <!-- ============ threat event ============ -->
+  <circle r="5.2" fill="#FF2A4F" filter="url(#glow)" opacity="0">
+    <animateMotion path="M315 330 H555 L430 212 L140 100 H545" dur="14s" begin="0s" repeatCount="indefinite"
+      keyPoints="0;0;1;1" keyTimes="0;0.2;0.74;1" calcMode="linear" />
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.22;0.72;0.74;1" dur="14s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- ============ live console ============ -->
+  <g>
+    <rect x="700" y="60" width="360" height="324" rx="3" fill="#070B13" stroke="#1B2735" />
+    <line x1="700" y1="96" x2="1060" y2="96" stroke="#1B2735" />
+    <text x="718" y="84" fill="#5D6B7E" font-family="monospace" font-size="9" letter-spacing="2">EVENT_LOG</text>
+    <circle cx="1042" cy="79" r="3.5" fill="#00C8FF">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite" />
+    </circle>
+    <text x="1030" y="83" fill="#4C5768" font-family="monospace" font-size="8" letter-spacing="1.4" text-anchor="end">LIVE</text>
+
+    <g font-family="monospace" font-size="10">
+      <text x="718" y="126" fill="#8494A8" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.02;0.035;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:01  telemetry batch normalized
+      </text>
+      <text x="718" y="151" fill="#8494A8" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.115;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:03  device identity verified (X.509)
+      </text>
+      <text x="718" y="176" fill="#FF8098" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.21;0.225;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:05  ANOMALY  unauthorized UDS session
+      </text>
+      <text x="718" y="201" fill="#8494A8" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.33;0.345;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:07  origin  OBD / diagnostic port
+      </text>
+      <text x="718" y="226" fill="#FF8098" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.47;0.485;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:09  correlation rule matched
+      </text>
+      <text x="718" y="251" fill="#FFB020" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.60;0.615;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:11  AI triage  SEVERITY HIGH
+      </text>
+      <text x="718" y="276" fill="#6FE3B0" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.765;0.94;1" dur="14s" repeatCount="indefinite" />
+        00:13  contained  session blocked
+      </text>
+    </g>
+
+    <line x1="700" y1="300" x2="1060" y2="300" stroke="#1B2735" />
+    <text x="718" y="322" fill="#4C5768" font-family="monospace" font-size="8" letter-spacing="2">PIPELINE STATUS</text>
+
+    <text x="718" y="352" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#00C8FF">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.19;0.21;0.96;1" dur="14s" repeatCount="indefinite" />
+      MONITORING
+    </text>
+    <text x="718" y="352" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#FF2A4F" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.21;0.23;0.73;0.75;1" dur="14s" repeatCount="indefinite" />
+      THREAT DETECTED
+    </text>
+    <text x="718" y="352" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#6FE3B0" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.77;0.96;1" dur="14s" repeatCount="indefinite" />
+      CONTAINED
+    </text>
+
+    <rect x="700" y="368" width="360" height="2" fill="#111C29" />
+    <rect x="700" y="368" width="0" height="2" fill="#00C8FF">
+      <animate attributeName="width" values="0;360" dur="14s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="#00C8FF;#00C8FF;#FF2A4F;#FF2A4F;#6FE3B0" keyTimes="0;0.2;0.24;0.73;0.78" dur="14s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <text x="40" y="416" fill="#3F4859" font-family="monospace" font-size="9" letter-spacing="2">SECURITY CARRIED THROUGH THE SYSTEM &#8212; NOT ADDED AT THE END</text>
 </svg>
